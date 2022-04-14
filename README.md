@@ -4,7 +4,7 @@ This port is making me _sick_ because of the mechanics and songs i have to add, 
 
 Currently, **help is needed with the port**, so if you want to help us, _contact me on my discord_ (Pico8430#1641) to see what you can do.
 
-**_AND ALSO, THIS WAS A DISCUSSION ON PSYCHDISCUSSIONS BUT MAYO78 DECIDED TO CLOSE THIS FOR NO REASON AT ALL, WHY, LIKE MAN I KNOW YOU CAN PLAY THE ORIGINAL MOD BUT THIS IS JUST A PORT FOR PSYCH ENGINE._** If you wan't to see this coming back, i'll make a repository of my port with EVERYTHING BACKED UP, and contact me on my discord if you want to help.
+**_AND ALSO, THIS WAS A DISCUSSION ON PSYCHDISCUSSIONS BUT MAYO78 DECIDED TO CLOSE THE DISCUSSION.**
 
 _As of now, the discussion is on hold and most likely never gonna be open again._
 
