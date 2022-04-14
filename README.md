@@ -4,7 +4,7 @@ This port is making me _sick_ because of the mechanics and songs i have to add, 
 
 Currently, **help is needed with the port**, so if you want to help us, _contact me on my discord_ (Pico8430#1641) to see what you can do.
 
-**_AND ALSO, THIS WAS A DISCUSSION ON PSYCHDISCUSSIONS BUT MAYO78 DECIDED TO CLOSE THE DISCUSSION.**
+**_AND ALSO, THIS WAS A DISCUSSION ON PSYCHDISCUSSIONS BUT MAYO78 DECIDED TO CLOSE THE DISCUSSION._**
 
 _As of now, the discussion is on hold and most likely never gonna be open again._
 
