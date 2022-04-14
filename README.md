@@ -14,9 +14,11 @@ Thanks.
 
 As you've heard on the title, this is an Indie Cross Psych Engine Port! It's currently being worked on and may take some time to finish, but you can enjoy the current versions!
 
-# What does this port contain? (Alpha 1)
+# What does this port contain? (Beta 1)
 
-This mod contains content from Indie Cross, but there are only 2 songs from Cuphead's week avaiable, if you wish to play them even if they are not finished, download the port.
+This mod contains content from Indie Cross, but there are only 3 songs from Cuphead's week avaiable, if you wish to play them even if they are not finished, download the port.
+
+Also, the perry note it's as of now work in progress since the note doesn't do anything yet.
 
 ## To do list (Songs)
 
@@ -31,6 +33,8 @@ This mod contains content from Indie Cross, but there are only 2 songs from Cuph
 # Download link
 
 **_(READ THE TXT FILE LEFT ON THE MAIN GAME'S FILES PLEASE)_**
+
+**Beta 1 Download Link**: https://drive.google.com/file/d/1glGx2vV9zz28zHn6gQzJ1iuw22Z4pWIb/view?usp=sharing
 
 **Alpha 1 Download link**: https://drive.google.com/file/d/1PwAwKOXduq2VLS_pvSsPtL0YrtktA4st/view?usp=sharing
 
