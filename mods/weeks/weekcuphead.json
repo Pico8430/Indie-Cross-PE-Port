@@ -1,0 +1,50 @@
+{
+	"storyName": "That one cup guy",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"Snake-Eyes",
+			"cuphead",
+			[
+				235,
+				0,
+				80
+			]
+		],
+		[
+			"Technicolor-Tussle",
+			"cuphead",
+			[
+				195,
+				0,
+				40
+			]
+		],
+		[
+			"Knockout",
+			"cuphead",
+			[
+				66,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Cuphead",
+	"hiddenUntilUnlocked": false
+}
