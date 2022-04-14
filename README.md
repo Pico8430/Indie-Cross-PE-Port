@@ -45,3 +45,11 @@ This mod contains content from Indie Cross, but there are only 2 songs from Cuph
 - [ ] Add effects (shaders were removed sooooo hell nah bru)
 
 - [ ] Add artist and song name at the start of a song (i am about to explode)
+
+# Port team!
+
+* Pico8430 (https://github.com/Pico8430) - Main developer and owner
+
+* lolbruhfart (https://github.com/lolbruhfart) - Helper
+
+* Springy (https://github.com/SpringProd) - Coder and 2nd helper
