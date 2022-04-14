@@ -6,7 +6,7 @@ Currently, **help is needed with the port**, so if you want to help us, _contact
 
 **_AND ALSO, THIS WAS A DISCUSSION ON PSYCHDISCUSSIONS BUT MAYO78 DECIDED TO CLOSE THIS FOR NO REASON AT ALL, WHY, LIKE MAN I KNOW YOU CAN PLAY THE ORIGINAL MOD BUT THIS IS JUST A PORT FOR PSYCH ENGINE._** If you wan't to see this coming back, i'll make a repository of my port with EVERYTHING BACKED UP, and contact me on my discord if you want to help.
 
-_As of now, this discussion is on hold._
+_As of now, the discussion is on hold and most likely never gonna be open again._
 
 Thanks.
 
