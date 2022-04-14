@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"Whoopee",
+			"sans",
+			[
+				46,
+				113,
+				253
+			]
+		],
+		[
+			"Sansational",
+			"sans",
+			[
+				66,
+				173,
+				253
+			]
+		],
+		[
+			"Final Stretch",
+			"sans",
+			[
+				0,
+				193,
+				155
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": true,
+	"weekBackground": "sans",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Do you wanna have a bad time?",
+	"weekName": "Bad time",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "i am sorry but this is the beta lmao",
+	"startUnlocked": false
+}

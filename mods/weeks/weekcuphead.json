@@ -2,19 +2,15 @@
 	"storyName": "That one cup guy",
 	"difficulties": "",
 	"hideFreeplay": false,
-	"weekBackground": "",
+	"weekBackground": "cuphead",
+	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"weekBefore": "tutorial",
 	"startUnlocked": true,
-	"weekCharacters": [
-		"",
-		"bf",
-		""
-	],
+	"hideStoryMode": false,
 	"songs": [
 		[
 			"Snake-Eyes",
@@ -44,7 +40,11 @@
 			]
 		]
 	],
-	"hideStoryMode": false,
-	"weekName": "Cuphead",
-	"hiddenUntilUnlocked": false
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Cuphead"
 }

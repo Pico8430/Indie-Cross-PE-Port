@@ -1,0 +1,59 @@
+{
+	"songs": [
+		[
+			"Imminent Demise",
+			"bendy",
+			[
+				60,
+				40,
+				73
+			]
+		],
+		[
+			"Terrible Sin",
+			"ink",
+			[
+				46,
+				40,
+				73
+			]
+		],
+		[
+			"LAst Reel",
+			"ink",
+			[
+				146,
+				40,
+				13
+			]
+		],
+		[
+			"Nightmare Run",
+			"ink",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": true,
+	"weekBackground": "bendy",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "cartoon",
+	"weekName": "BENDY",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "i am sorry but this is the beta again",
+	"startUnlocked": false
+}
