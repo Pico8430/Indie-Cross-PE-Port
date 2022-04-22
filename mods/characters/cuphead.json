@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "idle",
-			"loop": false,
-			"name": "Cuphead_standing instance"
+			"fps": 24,
+			"name": "Cuphead_standing instance",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				70,
 				-10
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singLEFT",
-			"loop": false,
-			"name": "Left instance"
+			"fps": 24,
+			"name": "Left instance",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-30,
 				-20
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singDOWN",
-			"loop": false,
-			"name": "Down instance"
+			"fps": 24,
+			"name": "Down instance",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				70
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singUP",
-			"loop": false,
-			"name": "Up instance"
+			"fps": 24,
+			"name": "Up instance",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-30,
 				-17
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singRIGHT",
-			"loop": false,
-			"name": "Right instance"
+			"fps": 24,
+			"name": "Right instance",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
@@ -70,8 +70,8 @@
 		74
 	],
 	"camera_position": [
-		-230,
-		-20
+		-210,
+		40
 	],
 	"sing_duration": 6.1,
 	"scale": 1.5

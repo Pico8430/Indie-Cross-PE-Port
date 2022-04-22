@@ -1,0 +1,169 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "Cuphead Rain Angry BG",
+		"player1": "bf",
+		"player2": "cuphead pissed",
+		"player3": null,
+		"events": [
+			[
+				30000,
+				[
+					[
+						"IC_shoot_blue",
+						"green",
+						""
+					]
+				]
+			],
+			[
+				33639.7058823529,
+				[
+					[
+						"IC_shoot_blue",
+						"stop",
+						""
+					]
+				]
+			],
+			[
+				51248.1617647059,
+				[
+					[
+						"IC_shoot_blue",
+						"nothing",
+						""
+					]
+				]
+			],
+			[
+				72352.9411764706,
+				[
+					[
+						"IC_shoot_blue",
+						"green",
+						""
+					]
+				]
+			],
+			[
+				79632.3529411765,
+				[
+					[
+						"IC_shoot_blue",
+						"stop",
+						""
+					]
+				]
+			],
+			[
+				79852.9411764706,
+				[
+					[
+						"IC_shoot_blue",
+						"nothing",
+						""
+					]
+				]
+			],
+			[
+				86470.5882352941,
+				[
+					[
+						"IC_shoot_blue",
+						"green",
+						""
+					]
+				]
+			],
+			[
+				90551.4705882353,
+				[
+					[
+						"IC_shoot_blue",
+						"nothing",
+						""
+					]
+				]
+			],
+			[
+				93529.4117647059,
+				[
+					[
+						"IC_shoot_blue",
+						"green",
+						""
+					]
+				]
+			],
+			[
+				107647.058823529,
+				[
+					[
+						"IC_shoot_blue",
+						"stop",
+						""
+					]
+				]
+			],
+			[
+				107806.985294118,
+				[
+					[
+						"IC_shoot_blue",
+						"nothing",
+						""
+					]
+				]
+			],
+			[
+				115147.058823529,
+				[
+					[
+						"IC_shoot_blue",
+						"green",
+						""
+					]
+				]
+			],
+			[
+				121764.705882353,
+				[
+					[
+						"IC_shoot_blue",
+						"stop",
+						""
+					]
+				]
+			],
+			[
+				141617.647058823,
+				[
+					[
+						"IC_shoot_blue",
+						"nothing",
+						""
+					]
+				]
+			],
+			[
+				155845.588235294,
+				[
+					[
+						"IC_shoot_blue",
+						"nothing",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "nogf",
+		"bpm": 136,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Knockout"
+	}
+}

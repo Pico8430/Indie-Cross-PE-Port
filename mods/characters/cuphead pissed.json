@@ -49,10 +49,10 @@
 				0,
 				0
 			],
-			"indices": [],
+			"loop": true,
 			"fps": 24,
 			"anim": "idle",
-			"loop": true,
+			"indices": [],
 			"name": "1 instance"
 		},
 		{
@@ -60,10 +60,10 @@
 				20,
 				0
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "attack",
-			"loop": false,
+			"indices": [],
 			"name": "Roundattack instance"
 		},
 		{
@@ -71,10 +71,10 @@
 				110,
 				-10
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "ouch",
-			"loop": false,
+			"indices": [],
 			"name": "Ouch instance"
 		},
 		{
@@ -82,10 +82,10 @@
 				0,
 				-12
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "die",
-			"loop": false,
+			"indices": [],
 			"name": "DIE BITCH instance"
 		},
 		{
@@ -93,10 +93,10 @@
 				340,
 				248
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "hadoken",
-			"loop": false,
+			"indices": [],
 			"name": "Hadoken!! instance"
 		}
 	],
@@ -114,8 +114,8 @@
 		74
 	],
 	"camera_position": [
-		-230,
-		-20
+		-240,
+		70
 	],
 	"sing_duration": 6.1,
 	"scale": 1.5

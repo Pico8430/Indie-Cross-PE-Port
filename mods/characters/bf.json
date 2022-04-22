@@ -1,124 +1,190 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				7,
 				19
 			],
-			"anim": "singLEFTmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "BF NOTE LEFT MISS",
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "BF NOTE LEFT MISS"
+		},
+		{
+			"offsets": [
+				-15,
+				-19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "BF NOTE DOWN MISS"
+		},
+		{
+			"offsets": [
+				-46,
+				27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "BF NOTE UP MISS"
+		},
+		{
+			"offsets": [
+				-44,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "BF NOTE RIGHT MISS"
+		},
+		{
+			"offsets": [
+				-3,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "BF HEY"
+		},
+		{
+			"offsets": [
+				14,
+				18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hurt",
+			"indices": [],
+			"name": "BF hit"
+		},
+		{
+			"offsets": [
+				-4,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "BF idle shaking"
+		},
+		{
+			"offsets": [
+				37,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "BF dies"
+		},
+		{
+			"offsets": [
+				37,
+				5
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "BF Dead Loop"
+		},
+		{
+			"offsets": [
+				37,
+				69
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "BF Dead confirm"
+		},
+		{
+			"offsets": [
+				-40,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "pre-attack",
+			"indices": [],
+			"name": "bf pre attack"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-9
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "0EERR",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-15,
-				-19
+				-20,
+				-51
 			],
-			"anim": "singDOWNmiss",
+			"anim": "singDOWN",
 			"fps": 24,
-			"name": "BF NOTE DOWN MISS",
+			"name": "0Ouu",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
 				-46,
-				27
+				33
 			],
-			"anim": "singUPmiss",
+			"anim": "singUP",
 			"fps": 24,
-			"name": "BF NOTE UP MISS",
+			"name": "0UPPP",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-44,
-				22
+				-38,
+				-7
 			],
-			"anim": "singRIGHTmiss",
+			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "BF NOTE RIGHT MISS",
+			"name": "0EEEE",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-3,
-				5
+				944,
+				-13
 			],
-			"anim": "hey",
+			"anim": "attack",
 			"fps": 24,
-			"name": "BF HEY",
+			"name": "0BF attack",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				14,
-				18
+				-10,
+				-26
 			],
-			"anim": "hurt",
+			"anim": "dodge",
 			"fps": 24,
-			"name": "BF hit",
-			"indices": []
-		},
-		{
-			"loop": true,
-			"offsets": [
-				-4,
-				0
-			],
-			"anim": "scared",
-			"fps": 24,
-			"name": "BF idle shaking",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				37,
-				11
-			],
-			"anim": "firstDeath",
-			"fps": 24,
-			"name": "BF dies",
-			"indices": []
-		},
-		{
-			"loop": true,
-			"offsets": [
-				37,
-				5
-			],
-			"anim": "deathLoop",
-			"fps": 24,
-			"name": "BF Dead Loop",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				37,
-				69
-			],
-			"anim": "deathConfirm",
-			"fps": 24,
-			"name": "BF Dead confirm",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-40,
-				-40
-			],
-			"anim": "pre-attack",
-			"fps": 24,
-			"name": "bf pre attack",
+			"name": "0Dodge",
 			"indices": []
 		},
 		{
@@ -126,77 +192,11 @@
 				-5,
 				0
 			],
-			"indices": [],
-			"fps": 24,
+			"loop": true,
+			"fps": 28,
 			"anim": "idle",
-			"loop": false,
+			"indices": [],
 			"name": "0Idle"
-		},
-		{
-			"offsets": [
-				1,
-				-9
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "singLEFT",
-			"loop": false,
-			"name": "0EERR"
-		},
-		{
-			"offsets": [
-				-20,
-				-51
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "singDOWN",
-			"loop": false,
-			"name": "0Ouu"
-		},
-		{
-			"offsets": [
-				-46,
-				33
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "singUP",
-			"loop": false,
-			"name": "0UPPP"
-		},
-		{
-			"offsets": [
-				-38,
-				-7
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "singRIGHT",
-			"loop": false,
-			"name": "0EEEE"
-		},
-		{
-			"offsets": [
-				944,
-				-13
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "attack",
-			"loop": false,
-			"name": "0BF attack"
-		},
-		{
-			"offsets": [
-				-10,
-				-26
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "dodge",
-			"loop": false,
-			"name": "0Dodge"
 		}
 	],
 	"no_antialiasing": false,
@@ -214,7 +214,7 @@
 	],
 	"camera_position": [
 		390,
-		0
+		160
 	],
 	"sing_duration": 4,
 	"scale": 1

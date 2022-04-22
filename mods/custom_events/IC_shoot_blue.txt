@@ -1,0 +1,4 @@
+values you can put in value1
+nothing = Starts shooting blue pellets.
+green = Starts shooting chasers per opp note hit.
+stop = Stop shooting green chasers per opp note hit.
