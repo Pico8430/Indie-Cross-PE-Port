@@ -1,0 +1,28 @@
+{
+	"dialogue": [
+		{
+			"sound": "snd_txtsans",
+			"speed": 0.05,
+			"portrait": "sans",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i'm surprised you didn't try anything."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sans",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i guess you learned something from last time..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sans",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "lets finish this."
+		}
+	]
+}

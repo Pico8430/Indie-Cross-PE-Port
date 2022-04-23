@@ -1,0 +1,76 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "welcome to the underground",
+			"boxState": "normal",
+			"sound": "snd_txtsans",
+			"speed": 0.05,
+			"portrait": "sans"
+		},
+		{
+			"expression": "talk",
+			"text": "how was your fall?",
+			"boxState": "normal",
+			"sound": "snd_txtsans",
+			"speed": 0.05,
+			"portrait": "sans"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "snd_txtsans",
+			"speed": 0.05,
+			"portrait": "sans"
+		},
+		{
+			"expression": "talk",
+			"text": "you know, i was hired to tear you to shreds",
+			"boxState": "normal",
+			"sound": "snd_txtsans",
+			"speed": 0.05,
+			"portrait": "sans"
+		},
+		{
+			"expression": "talk",
+			"text": "and spread those ashes across 6 different suns.",
+			"boxState": "normal",
+			"sound": "snd_txtsans",
+			"speed": 0.05,
+			"portrait": "sans"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "snd_txtsans",
+			"speed": 0.05,
+			"portrait": "sans"
+		},
+		{
+			"expression": "talk",
+			"text": "after a few rounds of rap battling...",
+			"boxState": "normal",
+			"sound": "snd_txtsans",
+			"speed": 0.05,
+			"portrait": "sans"
+		},
+		{
+			"expression": "talk",
+			"text": "for some reason...",
+			"boxState": "normal",
+			"sound": "snd_txtsans",
+			"speed": 0.04,
+			"portrait": "sans"
+		},
+		{
+			"expression": "excited",
+			"text": "ready yourself human.\r",
+			"boxState": "normal",
+			"sound": "snd_txtsans",
+			"speed": 0.05,
+			"portrait": "sans"
+		}
+	]
+}

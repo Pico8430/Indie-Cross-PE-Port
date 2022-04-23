@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"sound": "snd_txtsans",
+			"speed": 0.05,
+			"portrait": "sans",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you see, i can't judge the book by it's cover but..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sans",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i know what happened with you and that cup guy."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sans",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i'd say if you try to do the same with me..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sans",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "things wont turn out so well."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sans",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "up to you kid..."
+		},
+		{
+			"sound": "",
+			"speed": 0.07,
+			"portrait": "sans",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "no pressure."
+		}
+	]
+}
