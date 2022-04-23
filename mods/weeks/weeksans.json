@@ -1,4 +1,16 @@
 {
+	"storyName": "Do you wanna have a bad time?",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "sans",
+	"weekBefore": "i am sorry but this is the beta lmao",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
 	"songs": [
 		[
 			"Whoopee",
@@ -28,23 +40,11 @@
 			]
 		]
 	],
-	"hiddenUntilUnlocked": false,
-	"hideFreeplay": true,
-	"weekBackground": "sans",
-	"difficulties": "",
 	"weekCharacters": [
 		"",
 		"",
 		""
 	],
-	"storyName": "Do you wanna have a bad time?",
-	"weekName": "Bad time",
-	"freeplayColor": [
-		146,
-		113,
-		253
-	],
-	"hideStoryMode": false,
-	"weekBefore": "i am sorry but this is the beta lmao",
-	"startUnlocked": false
+	"hiddenUntilUnlocked": false,
+	"weekName": "Bad time"
 }
