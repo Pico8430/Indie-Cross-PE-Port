@@ -1,7 +1,6 @@
-This is the Beta Cuphead Build, meaning that it's the second version to release. If you find any bugs, please let us
-know about it!
+You're about to play an early version of the psych engine port! If you find any bugs, please let us know about it!
 
 Also, i do not own Indie Cross or something like that, remember to check the original mod.
 
 
-oh yeah kadedev responded to my github discussion so yeah i think thats cool
+oh yeah kadedev responded to my pre-old github discussion so yeah i think thats cool
