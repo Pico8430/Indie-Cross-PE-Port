@@ -15,7 +15,7 @@ end
 
 function goodNoteHit(id, direction, noteType, isSustainNote)
 	if noteType == 'Parry' then
-		--idk man
+		playSound('parry')
     end
 end
 
