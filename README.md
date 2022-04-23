@@ -2,11 +2,11 @@
 
 This port is making me _sick_ because of the mechanics and songs i have to add, and also, this is **NOT** easy, there's already another indie cross port avaiable but, you know right? I'm not gonna just steal the code from there.
 
-Currently, **help is needed with the port**, so if you want to help us, _contact me on my discord_ (Pico8430#1641) to see what you can do.
+Currently, **help is needed with the port**, so if you want to help us, you can by creating a pull request or a discussion!
 
 **_AND ALSO, THIS WAS A DISCUSSION ON PSYCHDISCUSSIONS BUT MAYO78 DECIDED TO CLOSE THE DISCUSSION._**
 
-_As of now, the discussion is on hold and most likely never gonna be open again._
+_As of now, the discussion is on hold and most likely never gonna be open again. (Well, maybe because there's an advertisement category now)_
 
 Thanks.
 
@@ -57,3 +57,5 @@ Also, the perry note it's as of now work in progress since the note doesn't do a
 * lolbruhfart (https://github.com/lolbruhfart) - Helper
 
 * Springy (https://github.com/SpringProd) - Coder and 2nd helper
+
+* DaveFan19 (https://github.com/DaveFan19) - Helped with the animations and events!
