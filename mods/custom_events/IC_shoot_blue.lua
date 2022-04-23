@@ -6,8 +6,8 @@ function onCreate()
     dadposX = getProperty('dad.x')
     dadposY = getProperty('dad.y')
     for i=1,9 do
-        precacheSound('indiecross/pea'..i) 
-        precacheSound('indiecross/chaser'..i)
+        precacheSound('pea'..i) 
+        precacheSound('chaser'..i)
     end
 
     makeLuaSprite('hurtOverlay', nil, 0, 0)
@@ -20,7 +20,7 @@ function onCreate()
     setObjectCamera('hurtOverlay2', 'other')
     addLuaSprite('hurtOverlay2', true)
 
-    makeAnimatedLuaSprite('card', 'bull/Cardcrap', 1185, 500)
+    makeAnimatedLuaSprite('card', 'Cardcrap', 1185, 500)
     setObjectCamera('card', 'other')
     addAnimationByPrefix('card', 'noCard', 'Card but flipped instance 1', 24, false)
     addAnimationByPrefix('card', 'popCard', 'PARRY Card Pop out  instance 1', 24, false)
@@ -73,7 +73,7 @@ function onStepHit()
         
         setProperty('boyfriend.specialAnim', true);
         characterPlayAnim('boyfriend', 'attack', true);
-        playSound('indiecross/hurt', 1.9) 
+        playSound('hurt', 1.9) 
         objectPlayAnimation('card', 'noCard')
         setProperty('health', getProperty('health') + 0.50)
         cameraShake('camOther', 0.015, 0.3)
@@ -87,10 +87,10 @@ function onStepHit()
 end
 
 function onUpdate()
-    if getPropertyFromClass('flixel.FlxG', 'keys.justPressed.SPACE') and active == true then
+    if getPropertyFromClass('flixel.FlxG', 'keys.justPressed.SHIFT') and active == true then
         setProperty('boyfriend.specialAnim', true);
         characterPlayAnim('boyfriend', 'attack', true);
-        playSound('indiecross/hurt', 1.9) 
+        playSound('hurt', 1.9) 
         objectPlayAnimation('card', 'noCard')
         setProperty('health', getProperty('health') + 0.50)
         cameraShake('camOther', 0.015, 0.3)
@@ -101,7 +101,7 @@ function onUpdate()
        isShootingGREEN = false
        active = false
     elseif botPlay and isShooting then
-        playSound('indiecross/hurt', 1.9) 
+        playSound('hurt', 1.9) 
        objectPlayAnimation('card', 'noCard')
        setProperty('health', getProperty('health') + 0.50)
        cameraShake('camOther', 0.008, 0.1)
