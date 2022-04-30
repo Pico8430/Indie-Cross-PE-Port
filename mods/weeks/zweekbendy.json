@@ -1,4 +1,16 @@
 {
+	"storyName": "cartoon",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "bendy",
+	"weekBefore": "i am sorry but this is the beta again",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
 	"songs": [
 		[
 			"Imminent Demise",
@@ -13,9 +25,9 @@
 			"Terrible Sin",
 			"ink",
 			[
-				46,
-				40,
-				73
+				86,
+				60,
+				13
 			]
 		],
 		[
@@ -31,29 +43,17 @@
 			"Nightmare Run",
 			"ink",
 			[
-				0,
-				0,
-				0
+				80,
+				40,
+				20
 			]
 		]
 	],
-	"hiddenUntilUnlocked": false,
-	"hideFreeplay": true,
-	"weekBackground": "bendy",
-	"difficulties": "Hard",
 	"weekCharacters": [
 		"",
 		"",
 		""
 	],
-	"storyName": "cartoon",
-	"weekName": "BENDY",
-	"freeplayColor": [
-		146,
-		113,
-		253
-	],
-	"hideStoryMode": false,
-	"weekBefore": "i am sorry but this is the beta again",
-	"startUnlocked": false
+	"hiddenUntilUnlocked": false,
+	"weekName": "BENDY"
 }

@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"Devils Gambit",
+			"cuphead",
+			[
+				46,
+				0,
+				20
+			]
+		],
+		[
+			"Bad Time",
+			"sans",
+			[
+				0,
+				155,
+				155
+			]
+		],
+		[
+			"Despair",
+			"ink",
+			[
+				20,
+				20,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": true,
+	"weekBackground": "",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "hell",
+	"weekName": "NIGHTMARE SONGS",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
