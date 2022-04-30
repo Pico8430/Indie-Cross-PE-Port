@@ -24,7 +24,9 @@ Also, the perry note it's as of now work in progress since the note doesn't do a
 
 - [x] Add Knockout (somehow)
 
-- [ ] Add all sans songs (uhh i forgot about the Genocide route, oops)
+- [x] Add all sans songs
+
+- [ ] Add the genocide route song (Burning in Hell) ((ok this is gonna be hard))
 
 - [ ] Add all Bendy's songs (wtf)
 
@@ -44,7 +46,7 @@ Also, the perry note it's as of now work in progress since the note doesn't do a
 
 - [x] Add something more to the menu and story mode just so it doesn't look to empty.
 
-- [ ] Oh yeah, don't forget about the other weeks, because you can't play songs without them lmao
+- [x] Oh yeah, don't forget about the other weeks, because you can't play songs without them lmao
 
 - [ ] Add effects (shaders were removed sooooo hell nah bru)
 
@@ -58,4 +60,4 @@ Also, the perry note it's as of now work in progress since the note doesn't do a
 
 * Springy (https://github.com/SpringProd) - Coder and 2nd helper
 
-* DaveFan19 (https://github.com/DaveFan19) - Helped with the animations and events!
+* DaveFan19 (https://github.com/DaveFan19) - Helped with changing and adding things on pull requests!
