@@ -1,0 +1,32 @@
+{
+	"storyName": "gose",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "goseland",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"gose",
+			"goose",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "gose",
+	"hiddenUntilUnlocked": false
+}
