@@ -49,7 +49,7 @@ function onEvent(name, v1, v2)
     if name == 'IC_shoot_blue' then
         if v1 == 'green' then
             isShootingGREEN = true
-        elseif v1 ~= 'green' then
+        elseif v1 == 'blue' then
             isShooting = true
         end
 

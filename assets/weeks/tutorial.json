@@ -1,6 +1,6 @@
 {
 	"songs": [
-		["Tutorial", "gf", [165, 0, 77]]
+		["Tutorisus", "gf", [165, 0, 77]]
 	],
 
 	"weekCharacters": [
@@ -15,6 +15,6 @@
 	"weekName": "Tutorial",
 	"startUnlocked": true,
 
-	"hideStoryMode": false,
-	"hideFreeplay": false
+	"hideStoryMode": true,
+	"hideFreeplay": true
 }

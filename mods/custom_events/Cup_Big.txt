@@ -1,0 +1,3 @@
+values you can put in value1
+normal = Starts a normal big attack
+spin = Starts a round-a-bout attack
